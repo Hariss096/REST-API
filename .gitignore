@@ -1,0 +1,7 @@
+/.venv
+
+
+/tutorialUpdated/snippetsUpdated/__pycache__
+/tutorialUpdated/snippetsUpdated/migrations
+
+/tutorialUpdated/tutorialUpdated/__pycache__
