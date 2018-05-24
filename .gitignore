@@ -5,3 +5,6 @@
 /tutorialUpdated/snippetsUpdated/migrations
 
 /tutorialUpdated/tutorialUpdated/__pycache__
+
+
+/tutorialUpdated/db.sqlite3
